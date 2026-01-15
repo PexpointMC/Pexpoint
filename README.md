@@ -1,24 +1,23 @@
-Pexpoint [![Paper Build Status](https://img.shields.io/github/actions/workflow/status/PexpointMC/Pexpoint/build.yml?branch=main)](https://github.com/PexpointMC/Pexpoint/actions)
+Pexpoint [![Pexpoint Build Status](https://img.shields.io/github/actions/workflow/status/PexpointMC/Pexpoint/build.yml?branch=main)](https://github.com/PexpointMC/Pexpoint/actions)
 [![Discord](https://img.shields.io/discord/1461501484263932157.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/rGsyGZ5abc)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/PexpointMC?label=GitHub%20Sponsors)](https://github.com/sponsors/PexpointMC)
 ===========
 
-The most widely used, high-performance Minecraft server that aims to fix gameplay and mechanics inconsistencies.
+One of the first (if not the first) snapshot server.jar that has been modified as a fork of PaperMC.
 
 
 **Support and Project Discussion:**
-- [Our forums](https://forums.papermc.io/) or [Discord](https://discord.gg/papermc)
+- [Our forums](https://avptag.github.io/pexpoint/) or [Discord](https://discord.gg/rGsyGz5abc). We do not want your money at all.
 
 How To (Server Admins)
 ------
-Paperclip is a jar file that you can download and run just like a normal jar file.
+Pexmate is a jar file that you can download and run just like a normal jar file.
 
-Download Paper from our [downloads page](https://papermc.io/downloads/paper).
+Download Pexpoint from our [downloads page](https://avptag.github.io/downloads/pexpoint).
 
-Run the Paperclip jar directly from your server. Just like old times
+Run the Pexmate jar directly from your server. Just like old times
 
-* Documentation on using Paper: [docs.papermc.io](https://docs.papermc.io)
-* For a sneak peek at upcoming features, [see here](https://github.com/PaperMC/Paper/projects)
+* Documentation on using Pexpoint: [avptag.github.io/pexpoint/docs](https://avptag.github.io/pexpoint/docs)
+* For a sneak peek at upcoming features, [see here](https://github.com/PexpointMC/Pexpoint/projects)
 
 How To (Plugin Developers)
 ------
