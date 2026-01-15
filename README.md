@@ -2,7 +2,7 @@ Pexpoint [![Pexpoint Build Status](https://img.shields.io/github/actions/workflo
 [![Discord](https://img.shields.io/discord/1461501484263932157.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/rGsyGZ5abc)
 ===========
 
-One of the first (if not the first) snapshot server.jar that has been modified as a fork of PaperMC.
+One of the first (if not the first) snapshot server.jar that has been modified as a fork of PaperMC. Created by CanvasONETech under the AVPTag group.
 
 
 **Support and Project Discussion:**
@@ -19,7 +19,7 @@ Run the Pexmate jar directly from your server. Just like old times
 * Documentation on using Pexpoint: [avptag.github.io/pexpoint/docs](https://avptag.github.io/pexpoint/docs)
 * For a sneak peek at upcoming features, [see here](https://github.com/PexpointMC/Pexpoint/projects)
 
-How To (Plugin Developers)
+How To (Plugin Developers for Pexpoint) - Note that this uses the PaperMC API and not a custom API.
 ------
 * See our API [here](paper-api)
 * See upcoming, pending, and recently added API [here](https://github.com/orgs/PaperMC/projects/2/views/4)
